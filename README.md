@@ -1,3 +1,12 @@
-### Hi there 👋
-I am currently studying computer science at the University of Minnesota. I am interested in low-level software design in the open source community. I have honed my skills by submitting PRs to open source projects such as the Ockam network. Participating in the UMN CPP has immensely raised my awareness of efficient software design. I am **eager** to make an impact in software and am seeking internship opportunities.
- 
+#### Overview
+
+- Interested in low-level software engineering fields, such as networking and operating systems
+- Involved in open source projects, such as netavark/podman
+- Seeking a summer 2023 internship with these interests in mind
+
+#### Related Competencies
+
+- Software engineering process - debugging programs and program profile analysis
+- Linux/unix management - familiar with linux kernel properties and usages
+- Proficient languages - Rust, Java, Python, Javascript,
+- Git and Github processes - managing open source projects with git and continuous integration
