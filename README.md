@@ -2,7 +2,7 @@
 
 - Interested in low-level software engineering fields, such as networking and operating systems
 - Involved in open source projects, such as netavark/podman
-- Seeking a summer 2023 internship with these interests in mind
+- Seeking a summer 2024 internship with these interests in mind
 
 #### Related Competencies
 
