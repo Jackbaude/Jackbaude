@@ -1,10 +1,12 @@
 #### Overview
 
-I am a skilled software developer with a passion for low-level software design and open-source projects. My expertise spans from networking to containers, and I have honed my skills through my contributions to various open-source projects. I am also a member of my university's competitive programming club, which has helped me improve my problem-solving abilities. I am excited to apply my skills and knowledge to make a meaningful contribution in the field of software development. I am actively seeking internship opportunities for the summer of 2024 to gain valuable industry experience and collaborate with innovative teams
+I am a student pursuing a B.S. in Computer Science at the University of Minnesota. I am seeking employment opportunities where I can apply my passion for open source and its projects. My ideal job would involve working with computer networks, and embedded machines. I am looking to put my foot in the door at a company where I can learn, develop, and become an excellent software engineer. 
 
 #### Related Competencies
 
-- Software engineering process - debugging programs and program profile analysis
-- Linux/unix management - familiar with linux kernel properties and usages
-- Proficient languages - Rust, Java, Python, Javascript,
-- Git and Github processes - managing open source projects with git and continuous integration
+Languages: C and C++, Rust, x86 assembler, Python, Java, Ocaml, Go, Web5 (HTML, CSS, JS)
+Software development: Version control (Git), Continuous Integration/Continuous Deployment (CI/CD), Bash scripting, Debugging practices, Application profiling, Performance optimization
+Tools: Linux/unix, Microsoft Azure, 
+Knowledgeable concepts: Network protocols (TCP/IP, DHCP, IPv6, DNS, MACVLAN), 5G Networking, Embedded systems, SDN (Software Defined Networking), Virtualization technologies
+
+
