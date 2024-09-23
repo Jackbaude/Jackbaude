@@ -4,9 +4,9 @@ I am a student pursuing a B.S. in Computer Science at the University of Minnesot
 
 #### Related Competencies
 
-Languages: C and C++, Rust, x86 assembler, Python, Java, Ocaml, Go, Web5 (HTML, CSS, JS)
-Software development: Version control (Git), Continuous Integration/Continuous Deployment (CI/CD), Bash scripting, Debugging practices, Application profiling, Performance optimization
-Tools: Linux/unix, Microsoft Azure, 
-Knowledgeable concepts: Network protocols (TCP/IP, DHCP, IPv6, DNS, MACVLAN), 5G Networking, Embedded systems, SDN (Software Defined Networking), Virtualization technologies
+- Languages: C and C++, Rust, x86 assembler, Python, Java, Ocaml, Go, Web5 (HTML, CSS, JS)
+- Software development: Version control (Git), Continuous Integration/Continuous Deployment (CI/CD), Bash scripting, Debugging practices, Application profiling, Performance optimization
+- Tools: Linux/Unix environments, Microsoft Azure, Docker, Kubernetes, Mininet, Wireshark, Netavark, Ockam 
+- Knowledgeable concepts: Network protocols (TCP/IP, DHCP, IPv6, DNS, MACVLAN), 5G Networking, Embedded systems, SDN (Software Defined Networking), Virtualization technologies
 
 
